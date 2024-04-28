@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/untitled/static/css/main.04ead563.css",
+    "main.js": "/untitled/static/js/main.a748d207.js",
+    "static/js/453.ed3810f9.chunk.js": "/untitled/static/js/453.ed3810f9.chunk.js",
+    "static/media/LiveBackground.png": "/untitled/static/media/LiveBackground.f47c2e92cf58e640da09.png",
+    "static/media/curve.png": "/untitled/static/media/curve.3ebb11ad0c823c25c404.png",
+    "static/media/Background.png": "/untitled/static/media/Background.11982777353b37913ddc.png",
+    "static/media/LexendGiga-VariableFont_wght.ttf": "/untitled/static/media/LexendGiga-VariableFont_wght.bd1a075fbeced912947a.ttf",
+    "static/media/logoOn.png": "/untitled/static/media/logoOn.a699688b63b4695d45c8.png",
+    "static/media/2.png": "/untitled/static/media/2.1c4e572e557066380747.png",
+    "static/media/1.png": "/untitled/static/media/1.23f38187945996952f76.png",
+    "static/media/5.png": "/untitled/static/media/5.a682f8d148e9f21faa6e.png",
+    "static/media/3.png": "/untitled/static/media/3.41b34d10f5d98bf38504.png",
+    "static/media/curveMobile.png": "/untitled/static/media/curveMobile.0d3a0fad912947347aa1.png",
+    "static/media/6.png": "/untitled/static/media/6.14918b6a849a17ef0419.png",
+    "static/media/4.png": "/untitled/static/media/4.14f6ea5bd7bc788a3796.png",
+    "static/media/logo2.png": "/untitled/static/media/logo2.ccc165e0fbde7507fba7.png",
+    "static/media/logoOff.png": "/untitled/static/media/logoOff.6bc3abcce104e3d0bb42.png",
+    "static/media/buttonOn.png": "/untitled/static/media/buttonOn.b33f0329ec58d029c3ef.png",
+    "static/media/buttonOff.png": "/untitled/static/media/buttonOff.2a3d6d2cc0f8f756d65b.png",
+    "static/media/ig.png": "/untitled/static/media/ig.6bc2a083854ee92ec453.png",
+    "static/media/icon.png": "/untitled/static/media/icon.266cd7b26b7f10070551.png",
+    "static/media/music.png": "/untitled/static/media/music.a1ab946f40bd1f7108cf.png",
+    "static/media/soundcloud.png": "/untitled/static/media/soundcloud.56b99132fa76b6c5216b.png",
+    "static/media/group.png": "/untitled/static/media/group.11a7d56e3e85c85b7595.png",
+    "static/media/twitter.png": "/untitled/static/media/twitter.c1758faeaceff7d85aed.png",
+    "static/media/spotify.png": "/untitled/static/media/spotify.f5c7af17716219ae3e4c.png",
+    "index.html": "/untitled/index.html",
+    "main.04ead563.css.map": "/untitled/static/css/main.04ead563.css.map",
+    "main.a748d207.js.map": "/untitled/static/js/main.a748d207.js.map",
+    "453.ed3810f9.chunk.js.map": "/untitled/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04ead563.css",
+    "static/js/main.a748d207.js"
+  ]
+}
