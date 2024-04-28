@@ -9,7 +9,7 @@ function Home2() {
     return (
         <div className="App2">
             <div id="curve" ></div>
-            <Link to="/" style={{ textDecoration: 'none' }}>
+            <Link to="/untitled" style={{ textDecoration: 'none' }}>
                 <div id="home2" ></div>
             </Link>
             <div className="buttons" >
